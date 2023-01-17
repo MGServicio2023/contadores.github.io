@@ -494,11 +494,11 @@ a.the-title:hover {
 }
 .bg-primary .btn {
   background: transparent;
-  border-color: #00387a;
+  border-color: #B3B3B3;
 }
 
 .bg-second {
-  background: #00387a;
+  background: #B3B3B3;
 }
 .bg-second .btn:hover,
 .bg-second .btn:focus {
@@ -542,7 +542,7 @@ a.the-title:hover {
 }
 
 .text-second {
-  color: #00387a;
+  color: #B3B3B3;
 }
 
 .section-padd {
@@ -780,8 +780,8 @@ a.the-title:hover {
   color: #f26522;
 }
 .pagelink:hover {
-  color: #00387a;
-  border-color: #00387a;
+  color: #B3B3B3;
+  border-color: #B3B3B3;
 }
 .pagelink.gray {
   color: #737373;
@@ -812,7 +812,7 @@ a.the-title:hover {
   position: absolute;
   top: 0;
   left: 0;
-  background: #00387a;
+  background: #B3B3B3;
   opacity: 0.8;
   width: 100%;
   height: 100%;
@@ -959,7 +959,7 @@ td {
   color: #fff;
 }
 .btn:hover, .btn:focus {
-  background: #00387a;
+  background: #B3B3B3;
   color: #fff;
 }
 
@@ -1101,11 +1101,11 @@ a {
   -moz-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   -ms-transition: all 0.3s linear;
-  color: #00387a;
+  color: #B3B3B3;
   text-decoration: none;
 }
 a:visited {
-  color: #00387a;
+  color: #B3B3B3;
 }
 a:hover, a:focus, a:active {
   color: #f26522;
@@ -1206,7 +1206,7 @@ ul.info-list.info_on_right_side li:last-child {
 /* ================================================== */
 /* Header Style Default */
 .site-header {
-  background: #00387a;
+  background: #B3B3B3;
   position: relative;
   z-index: 99;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
@@ -1482,7 +1482,7 @@ ul.info-list.info_on_right_side li:last-child {
 /** Header Style 1 **/
 .header-style-1 .header-topbar {
   border-color: transparent;
-  background-color: #002c60;
+  background-color: #8D8D8D;
 }
 .header-style-1 .main-header .main-header-bottom {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -1503,7 +1503,7 @@ ul.info-list.info_on_right_side li:last-child {
   display: table;
 }
 .header-style-1 ul.info-list li {
-  color: #b3c4d7;
+  color: #747474;
   font-size: 14px;
   padding-right: 50px;
   padding-left: 50px;
@@ -1558,7 +1558,7 @@ ul.info-list.info_on_right_side li:last-child {
   background-color: #fff;
 }
 .header-style-4 .header-topbar {
-  background-color: #00387a;
+  background-color: #B3B3B3;
 }
 .header-style-4 .main-navigation > ul > li > a, .header-style-4 .h-cart-btn i, .header-style-4 .toggle_search i {
   color: #000;
@@ -1566,7 +1566,7 @@ ul.info-list.info_on_right_side li:last-child {
 
 /* Header Style Blue */
 .header-blue {
-  background: #00387a;
+  background: #B3B3B3;
 }
 
 /* Header Style Transperant */
@@ -1623,7 +1623,7 @@ ul.info-list.info_on_right_side li:last-child {
   }
 
   .header-transparent.sticked {
-    background: #00387a;
+    background: #B3B3B3;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
@@ -1791,7 +1791,7 @@ ul.info-list.info_on_right_side li:last-child {
     left: 0;
     top: 50%;
     margin: -2px 0 0;
-    background: #00387a;
+    background: #B3B3B3;
     height: 4px;
     padding: 0;
     border: none;
@@ -1812,7 +1812,7 @@ ul.info-list.info_on_right_side li:last-child {
     top: -8px;
     width: 26px;
     height: 4px;
-    background: #00387a;
+    background: #B3B3B3;
     -webkit-transform-origin: 1.5px center;
     transform-origin: 1.5px center;
     transition: all 0.3s ease;
@@ -1830,7 +1830,7 @@ ul.info-list.info_on_right_side li:last-child {
     bottom: -8px;
     width: 26px;
     height: 4px;
-    background: #00387a;
+    background: #B3B3B3;
     -webkit-transform-origin: 1.5px center;
     transform-origin: 1.5px center;
     transition: all 0.3s ease;
@@ -2030,7 +2030,7 @@ ul.info-list.info_on_right_side li:last-child {
 }
 /* Blue Color */
 .mobile-header-blue .header_mobile .mlogo_wrapper {
-  background-color: #00387a;
+  background-color: #B3B3B3;
 }
 
 .mobile-header-blue #mmenu_toggle button, .mobile-header-blue #mmenu_toggle button:before, .mobile-header-blue #mmenu_toggle button:after {
@@ -2042,7 +2042,7 @@ ul.info-list.info_on_right_side li:last-child {
 }
 
 .mobile-header-blue .header_mobile .mobile_nav {
-  background-color: #00387a;
+  background-color: #B3B3B3;
   border-top-color: rgba(255, 255, 255, 0.2);
 }
 
@@ -2321,8 +2321,8 @@ ul.info-list.info_on_right_side li:last-child {
   line-height: 1.1;
 }
 .content-area .inner-post .post-link:hover {
-  color: #00387a;
-  border-color: #00387a;
+  color: #B3B3B3;
+  border-color: #B3B3B3;
 }
 .content-area .ot_service .inner-post {
   padding-top: 30px;
@@ -2557,7 +2557,7 @@ ul.info-list.info_on_right_side li:last-child {
   font-size: 18px;
 }
 .widget-area .widget.bg-second {
-  background: #00387a;
+  background: #B3B3B3;
 }
 .widget-area .widget.bg-second .btn:hover,
 .widget-area .widget.bg-second .btn:focus {
@@ -2989,7 +2989,7 @@ object {
 .service-box i, .service-box img {
   font-size: 40px;
   max-width: 50px;
-  color: #f26522;
+  color: #be1b8e;
   margin-bottom: 20px;
   line-height: 1;
   display: inline-block;
@@ -3013,7 +3013,7 @@ object {
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
 }
 .service-box.hover-box:hover {
-  background: #00387a;
+  background: #B3B3B3;
   color: #fff;
 }
 .service-box.hover-box:hover h4 {
@@ -3134,7 +3134,7 @@ a .service-box {
   left: 40px;
 }
 .menu-service .list-service {
-  background: #00387a;
+  background: #B3B3B3;
 }
 .menu-service .list-service a {
   font-family: "Montserrat", sans-serif;
@@ -3153,7 +3153,7 @@ a .service-box {
 }
 .menu-service .call-action {
   padding: 67px 40px;
-  background-color: #00387a;
+  background-color: #B3B3B3;
   background-size: cover;
   background-position: center center;
 }
@@ -3955,7 +3955,7 @@ a .service-box {
 }
 .fun-facts.s2 .icon-fact i {
   background: #e5eef6;
-  color: #00387a;
+  color: #B3B3B3;
 }
 .fun-facts.s2 h5 {
   color: #fff;
@@ -3967,7 +3967,7 @@ a .service-box {
 
 .career-box > h5 {
   padding: 15px 40px;
-  background: #00387a;
+  background: #B3B3B3;
   color: #fff;
   margin-bottom: 0;
 }
@@ -4450,7 +4450,7 @@ div.line-chart .chart-legend li {
 # Footer
 --------------------------------------------------------------*/
 .site-footer {
-  background: #00387a;
+  background: #B3B3B3;
   color: #fff;
 }
 
@@ -4936,7 +4936,7 @@ div.line-chart .chart-legend li {
   color: #00a651;
 }
 .blue{
-  color: #00387a;
+  color: #B3B3B3;
 }
 .custom-padd-1{
   padding-top: 300px;
@@ -4987,10 +4987,10 @@ div.line-chart .chart-legend li {
 }
 .banner-content h6{
   margin-bottom: 10px;
-  color: #00387a;
+  color: #B3B3B3;
 }
 .banner-content h2{
-  color: #00387a;
+  color: #B3B3B3;
 }
 .banner-content p{
   margin-bottom: 35px;
