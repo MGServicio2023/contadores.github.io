@@ -4665,8 +4665,8 @@ tp-caption.Team-Thumb,
     border: 1px solid #666;
     border-right: 0;
 }
-#mc_embed_signup input#mc-embedded-subscribe,
-#mc_embed_signup input#mc-embedded-subscribe:focus {
+#mc_embed_signup input#mc-embedded-Contáctanos,
+#mc_embed_signup input#mc-embedded-Contáctanos:focus {
     font-family: "Lato", sans-serif;
     line-height: 46px;
     letter-spacing: 1px;
@@ -4681,7 +4681,7 @@ tp-caption.Team-Thumb,
     -moz-border-radius: 0px;
     border-radius: 0px;
 }
-#mc_embed_signup input#mc-embedded-subscribe:hover {
+#mc_embed_signup input#mc-embedded-Contáctanos:hover {
     background: #0083d4;
 }
 @media only screen and (max-width: 767px) {
