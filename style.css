@@ -618,6 +618,11 @@ a.the-title:hover {
   font-size: 12px;
 }
 
+.fontcolor {
+  color: #5a4462;
+}
+
+
 .font-second {
   font-family: "Montserrat", sans-serif;
 }
@@ -4237,7 +4242,7 @@ div.line-chart .chart-legend li {
 }
 
 .contact-box{
-  padding-top: 30px;
+  padding-top: 10px;
   padding-right: 30px;
   padding-bottom: 30px;
   padding-left: 30px;
@@ -4257,10 +4262,9 @@ div.line-chart .chart-legend li {
   margin-bottom: 30px;
 }
 .contact-box .pagelink {
-  margin-top: 20px;
-  color: #fff;
+  color: #5a4462;
   opacity: 0.7;
-  border-color: #fff;
+  border-color: #5a4462;
 }
 .contact-box .pagelink:hover {
   opacity: 1;
@@ -4942,6 +4946,27 @@ div.line-chart .chart-legend li {
   background: url(images/bg-home1.jpg) no-repeat center;
   background-size: cover; 
 }
+
+.custom-padd-3{
+  padding-top: 135px;
+  padding-bottom: 250px;
+  background: url(images/about-mision.jpg) no-repeat center;
+  background-size: cover; 
+}
+.custom-padd-4{
+  padding-top: 135px;
+  padding-bottom: 250px;
+  background: url(images/about-vision.jpg) no-repeat center;
+  background-size: cover; 
+}
+
+.custom-padd-5{
+  padding-top: 135px;
+  padding-bottom: 250px;
+  background: url(images/ventaja-competitiva.png) no-repeat center;
+  background-size: cover; 
+}
+
 .custom-padd-2{
   padding-top: 189px;
   padding-bottom: 170px;
