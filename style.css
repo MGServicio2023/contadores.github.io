@@ -4946,6 +4946,27 @@ div.line-chart .chart-legend li {
   background: url(images/bg-home1.jpg) no-repeat center;
   background-size: cover; 
 }
+
+.custom-padd-3{
+  padding-top: 135px;
+  padding-bottom: 250px;
+  background: url(images/about-mision.jpg) no-repeat center;
+  background-size: cover; 
+}
+.custom-padd-4{
+  padding-top: 135px;
+  padding-bottom: 250px;
+  background: url(images/about-vision.jpg) no-repeat center;
+  background-size: cover; 
+}
+
+.custom-padd-5{
+  padding-top: 135px;
+  padding-bottom: 250px;
+  background: url(images/ventaja-competitiva.png) no-repeat center;
+  background-size: cover; 
+}
+
 .custom-padd-2{
   padding-top: 189px;
   padding-bottom: 170px;
